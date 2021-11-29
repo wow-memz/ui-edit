@@ -2,13 +2,6 @@
 --original from Playstations UI
 --original UI Made by Bytes#0001
 
-local function DestroyYep()
-    for x = 1,69 do 
-        if game.CoreGui:FindFirstChild("fu8rj82n") then game.CoreGui:FindFirstChild("fu8rj82n"):Destroy() end
-    end
-end
-
-DestroyYep()
 
 wait(0.069)
 
