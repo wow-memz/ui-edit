@@ -102,7 +102,7 @@ function Library:CreateWindow(windowname,windowinfo)
     Title.BorderColor3 = Color3.fromRGB(20, 20, 20)
     Title.BorderSizePixel = 0
     Title.Position = UDim2.new(0.0428240746, 0, 0.028070176, 0)
-    Title.Size = UDim2.new(0, 55, 0, 33)
+    Title.Size = UDim2.new(0, 33, 0, 33)
     Title.Image = windowname
 
     Yep.Name = "Yep"
