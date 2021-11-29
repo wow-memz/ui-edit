@@ -8,7 +8,7 @@ wait(0.069)
 local Library = {}
 
 function Library:CreateWindow(windowname,windowinfo)
-    local fu8rj82n = Instance.new("CoreGui")
+    local fu8rj82n = Instance.new("ScreenGui")
     local Frame = Instance.new("Frame")
     local FrameCorner = Instance.new("UICorner")
     local DashBoard = Instance.new("Frame")
